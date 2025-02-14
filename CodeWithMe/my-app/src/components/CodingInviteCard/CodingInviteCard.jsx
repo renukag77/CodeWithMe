@@ -34,7 +34,7 @@ const CodingInviteCard = () => {
         
         <div className="image-container">
           <img 
-            src="/assets/bugcat-capoo.gif"
+            src="cat_cute.jpeg"
             alt="Cute Capoo"
           />
         </div>
